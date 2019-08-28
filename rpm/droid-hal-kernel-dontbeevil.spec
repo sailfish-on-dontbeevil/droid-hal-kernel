@@ -1,7 +1,7 @@
 # Thanks to Neochapay: https://build.merproject.org/package/show/home:neochapay:mer:release:2018.05:hardware:pine64/kernel-dont_be_evil
 %define debug_package %{nil}
 
-Name:       kernel-dont_be_evil
+Name:       droid-hal-kernel-dontbeevil
 Summary:    Linux kernel for PinePhone64
 Version:    5.3
 Release:    0
